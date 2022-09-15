@@ -3,6 +3,7 @@
 # control, add individual board + shield combinations to
 # the `include` property, e.g:
 #
+# Please work this time
 # board: [ "nice_nano_v2" ]
 # shield: [ "corne_left", "corne_right" ]
 # include:
